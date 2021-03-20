@@ -20,7 +20,7 @@ ul {
 }
 /* header start */
 .header {
-    background: dodgerblue;
+    background: rgb(199, 137, 119);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
